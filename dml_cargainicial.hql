@@ -1,6 +1,7 @@
 -- autor : arturo rojas
--- Crear tabla 
-create table external ventas (
-nombre varchar2(50),
-apellidos varchar2 (100)
-)
+-- carga inicial  
+insert int ventas 
+select * from ventas_1;
+
+commit;
+exit;
