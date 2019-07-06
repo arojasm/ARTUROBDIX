@@ -1,7 +1,10 @@
+-- trabajmos en rama alterna
 -- autor : arturo rojas
--- carga inicial  
 insert int ventas 
-select * from ventas_1;
+select 
+nombre,
+apellido 
+from ventas_1;
 
 commit;
 exit;
