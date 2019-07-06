@@ -1,4 +1,4 @@
--- creacion de table HIVE con la informacion de ventas
+-- autor : arturo rojas
 -- Crear tabla 
 create table external ventas (
 nombre varchar2(50),
