@@ -1,0 +1,1 @@
+-- creacion de table HIVE con la inforamcio de ventas
